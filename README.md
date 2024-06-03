@@ -31,7 +31,7 @@ To install this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [invalid URL removed]
+   git clone https://github.com/MdRonyAhmed/video_clip_cutter.git
    ```
 2. Navigate to the project directory:
    ```bash
