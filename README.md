@@ -41,3 +41,7 @@ To install this project, follow these steps:
    ```bash
    pip install moviepy
    ```
+4. Create a new folder named 'output_folder'
+   ```bash
+   mkdir output_folder
+   ```
